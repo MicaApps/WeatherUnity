@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: 10f23ea8475777847b6ea6369a2cb993
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moon_phases_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1560
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.5, y: -137.5}
+        - {x: 49.5, y: -137.5}
+        - {x: 90.5, y: -137.5}
+        - {x: 137.5, y: -132.5}
+        - {x: 137.5, y: 0}
+        - {x: 137.5, y: 137.5}
+        - {x: 36.5, y: 137.5}
+        - {x: -19.5, y: 109.5}
+        - {x: 61.5, y: 10.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9ae8a8e1fab8747abf9acfabac4762
+      internalID: -2078056849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1560
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: -137.5}
+        - {x: 137.5, y: 137.5}
+        - {x: 13.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ce3d9093d60bd49b56f36ac9d3a72d
+      internalID: 11866918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1559
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: -137.5}
+        - {x: 137.5, y: 137.5}
+        - {x: -19.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66dc2b70436d81499ac74709cfa3d2f
+      internalID: 546483535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1258
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -43.5, y: -137.5}
+        - {x: 137.5, y: -137.5}
+        - {x: 137.5, y: 137.5}
+        - {x: -88.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5762868ff98301e458126d0478b4d01e
+      internalID: 803757893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1257
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -46.5, y: -137.5}
+        - {x: 134.5, y: -137.5}
+        - {x: 137.5, y: 137.5}
+        - {x: -33.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95240493ee61de643b8160951c9a5ca7
+      internalID: 475476225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_4
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1558
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -23.5, y: -137.5}
+        - {x: 137.5, y: -137.5}
+        - {x: 137.5, y: 137.5}
+        - {x: -3.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813ecf92d31d5cb4bbb929bb206d5c21
+      internalID: -757190557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 955
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -103.5, y: -137.5}
+        - {x: 137.5, y: -137.5}
+        - {x: 137.5, y: 137.5}
+        - {x: -88.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cade9531a4601d429eb78f1f70017f3
+      internalID: 1528993349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_7
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1257
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -58.5, y: -137.5}
+        - {x: 137.5, y: -137.5}
+        - {x: 137.5, y: 135.5}
+        - {x: -53.5, y: 135.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45428f1d0161c564384e9d98b4ded2bb
+      internalID: -343281687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_8
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1257
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -76.5, y: -137.5}
+        - {x: 137.5, y: -137.5}
+        - {x: 137.5, y: 137.5}
+        - {x: -74.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64ee151492d3e443a95e4437c28bc3e
+      internalID: -2027689029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 960
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137.5, y: -137.5}
+        - {x: 137.5, y: -137.5}
+        - {x: 137.5, y: 137.5}
+        - {x: -137.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ee0ccd5e85e2740b92b344a3dcf90c
+      internalID: -696674466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 957
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -94.5, y: -137.5}
+        - {x: 137.5, y: -137.5}
+        - {x: 137.5, y: 137.5}
+        - {x: -104.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1334fb9b3b9ab15439c273439330a1e8
+      internalID: 958673128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_12
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 960
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137.5, y: -137.5}
+        - {x: 137.5, y: -137.5}
+        - {x: 137.5, y: 137.5}
+        - {x: -137.5, y: 136.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dd7a7f65a5f7d41b0e3b8738cb6b13
+      internalID: -1579796738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 657
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137.5, y: -137.5}
+        - {x: 137.5, y: -137.5}
+        - {x: 137.5, y: 137.5}
+        - {x: -137.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526debb5bdf95c640af70f5f8be85dea
+      internalID: -2015522409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_14
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 656
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137.5, y: -137.5}
+        - {x: 137.5, y: -137.5}
+        - {x: 137.5, y: 137.5}
+        - {x: -137.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e9ed022311e59448b74dcfc90cfaa5
+      internalID: 1193315322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_15
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 655
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 137.5, y: -137.5}
+        - {x: 137.5, y: 137.5}
+        - {x: -137.5, y: 137.5}
+        - {x: -137.5, y: -137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605b72fc5335da9498f7f8a4a4153fa7
+      internalID: -2060510860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_16
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 658
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137.5, y: -137.5}
+        - {x: 61.5, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 62.5, y: 137.5}
+        - {x: -137.5, y: 137.5}
+        - {x: -137.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a09d8b410560f144ac47286af6a08cf
+      internalID: -56986854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_19
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 355
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137.5, y: -137.5}
+        - {x: 76.5, y: -137.5}
+        - {x: 78.5, y: 137.5}
+        - {x: -137.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b118fd9479b7e642a8a63f5581662cc
+      internalID: -1649976398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 351
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 53.5, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 61.5, y: 137.5}
+        - {x: -137.5, y: 137.5}
+        - {x: -137.5, y: -137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc893384d67eb44abfbec24ed091d64
+      internalID: -901063863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 353
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137.5, y: -137.5}
+        - {x: 44.5, y: -137.5}
+        - {x: 119.5, y: -0.5}
+        - {x: 38.5, y: 137.5}
+        - {x: -137.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5dc2dd9039665408fcca683834a144
+      internalID: 291498217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 52
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137.5, y: -137.5}
+        - {x: -2.5, y: -137.5}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ff0687963c40c41a72cb0ad8dc01b9
+      internalID: 563186162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 50
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137.5, y: -137.5}
+        - {x: 27.5, y: -137.5}
+        - {x: 15.5, y: 137.5}
+        - {x: -137.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e85d4f6678e77c419f19e3b86809bf9
+      internalID: 618540450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_23
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 53
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137.5, y: -137.5}
+        - {x: -7.5, y: -137.5}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4098eb1bb99bd469b766f0e2c44591
+      internalID: 410796968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon_phases_20
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 353
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -137.5, y: -137.5}
+        - {x: 27.5, y: -137.5}
+        - {x: 20.5, y: 137.5}
+        - {x: -137.5, y: 137.5}
+      physicsShape:
+      - - {x: 0, y: -137.5}
+        - {x: 137.5, y: 0}
+        - {x: 0, y: 137.5}
+        - {x: -137.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9189158f84969a41b702aa77817ba0b
+      internalID: 676692542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4e09150b324dee64dba6ca2b3b73208c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Moon_phases_0: -1488658748
+      Moon_phases_1: -2078056849
+      Moon_phases_10: 1528993349
+      Moon_phases_11: -696674466
+      Moon_phases_12: -1579796738
+      Moon_phases_13: -2015522409
+      Moon_phases_14: 1193315322
+      Moon_phases_15: -2060510860
+      Moon_phases_16: -56986854
+      Moon_phases_17: -901063863
+      Moon_phases_18: 291498217
+      Moon_phases_19: -1649976398
+      Moon_phases_2: 11866918
+      Moon_phases_20: 676692542
+      Moon_phases_21: 563186162
+      Moon_phases_22: 618540450
+      Moon_phases_23: 410796968
+      Moon_phases_24: 1585707368
+      Moon_phases_26: 128598149
+      Moon_phases_27: -61549757
+      Moon_phases_3: 546483535
+      Moon_phases_31: 1436412737
+      Moon_phases_32: -919871500
+      Moon_phases_33: 1122625460
+      Moon_phases_37: 1465414664
+      Moon_phases_4: -757190557
+      Moon_phases_5: 803757893
+      Moon_phases_6: 475476225
+      Moon_phases_7: -343281687
+      Moon_phases_8: -2027689029
+      Moon_phases_9: 958673128
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
